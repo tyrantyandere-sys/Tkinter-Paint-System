@@ -1,3 +1,8 @@
+Charls Ryan I. Garlito
+BSINFOTECH SE-3A
+
+<img width="1647" height="988" alt="image" src="https://github.com/user-attachments/assets/c94021c3-f2b4-4e3c-84a4-1c099d99c683" />
+
 # REQUIREMENTS COMPLETED: 
 ###	Bigger brush range
 	
